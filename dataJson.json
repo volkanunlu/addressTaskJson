@@ -1,0 +1,85 @@
+[
+  {
+    "CustomViewType": "Header",
+    "Properties": {
+      "header": "Adres Ekleme",
+      "hint": null,
+      "content": null
+    }
+  },
+  {
+    "CustomViewType": "TextInputUserName",
+    "Properties": {
+      "header": null,
+      "hint": "Adres Sahibi",
+      "content": null
+    }
+  },
+  {
+    "CustomViewType": "TextInputAddres",
+    "Properties": {
+      "header": null,
+      "hint": "Adres",
+      "content": null
+    }
+  },
+  {
+    "CustomViewType": "ComboboxCountry",
+    "Properties": {
+      "header": null,
+      "hint": null,
+      "content": [
+        "Türkiye"
+      ]
+    }
+  },
+  {
+    "CustomViewType": "ComboboxCity",
+    "Properties": {
+      "header": null,
+      "hint": null,
+      "content": [
+        "Ankara",
+        "İstanbul",
+        "İzmir",
+        "Eskişehir",
+        "Aydın",
+        "Elazığ",
+        "Antalya",
+        "Kars"
+      ]
+    }
+  },
+  {
+    "CustomViewType": "TextInputDisctrict",
+    "Properties": {
+      "header": null,
+      "hint": "İlçe",
+      "content": null
+    }
+  },
+  {
+    "CustomViewType": "TextInputPostCode",
+    "Properties": {
+      "header": null,
+      "hint": "Posta Kodu",
+      "content": null
+    }
+  },
+  {
+    "CustomViewType": "TextInputPhone",
+    "Properties": {
+      "header": null,
+      "hint": "Telefon",
+      "content": null
+    }
+  },
+  {
+    "CustomViewType": "Toast",
+    "Properties": {
+      "header": null,
+      "hint": "Adres Ekleme Ekranı",
+      "content": null
+    }
+  }
+]
